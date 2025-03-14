@@ -1,4 +1,4 @@
-# Sequence Diagram: Workout Recording with Feedback
+# FitOS Sequence Diagram: Workout Recording with Feedback
 
 ## Overview
 This sequence diagram illustrates the flow of data and interactions between components during a workout recording session with real-time feedback.

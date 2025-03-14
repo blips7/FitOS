@@ -1,7 +1,7 @@
-# Sprint Plan
+# FitOS Sprint Plan
 
 ## Overview
-This document outlines a 2-month development plan (4 sprints, 2 weeks each) for the AI Fit Trainer platform, a microservices-based, API-first, multi-tenant fitness application with HealthKit integration.
+This document outlines a 2-month development plan (4 sprints, 2 weeks each) for the FitOS platform, a microservices-based, API-first, multi-tenant fitness application with HealthKit integration.
 
 ## Sprint 0: Microservices Foundation (March 10–March 14, 2025)
 

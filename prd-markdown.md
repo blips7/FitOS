@@ -1,13 +1,13 @@
 # Product Requirements Document (PRD)
-# AI-Powered Training Mobile App
+# FitOS: Multi-Tenant Fitness Platform
 
 ## 1. Overview
 
 ### 1.1 Product Name
-AI Fit Trainer (placeholder—feel free to suggest a name!)
+FitOS
 
 ### 1.2 Purpose
-AI Fit Trainer is an iOS mobile application designed to help users get into shape and stay on track with their fitness goals. It leverages AI to provide personalized workouts, diet plans, nutrition tracking, and real-time feedback, using iPhone camera and sensor capabilities.
+FitOS is a multi-tenant fitness platform with an iOS mobile application designed to help users get into shape and stay on track with their fitness goals. It leverages AI to provide personalized workouts, diet plans, nutrition tracking, and real-time feedback, using iPhone camera and sensor capabilities while offering enterprise-ready tenant management.
 
 ### 1.3 Target Audience
 - Fitness enthusiasts (beginners to advanced)

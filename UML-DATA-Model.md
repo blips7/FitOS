@@ -1,4 +1,4 @@
-# Detailed UML Data Model
+# FitOS: Detailed UML Data Model
 
 ## Entity Definitions
 
